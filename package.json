@@ -1,0 +1,63 @@
+{
+  "name": "facebook-events-by-location",
+  "description": "A Express.js-based microservice to get public Facebook events by location, distance and search terms.",
+  "keywords": [
+    "Facebook",
+    "events",
+    "event",
+    "search",
+    "location",
+    "microservice",
+    "backend",
+    "app"
+  ],
+  "version": "0.5.3",
+  "private": false,
+  "scripts": {
+    "start": "node ./index"
+  },
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "~4.13.1",
+    "facebook-events-by-location-core": "^0.1.4",
+    "morgan": "~1.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/tobilg/facebook-events-by-location/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobilg/facebook-events-by-location.git"
+  },
+  "homepage": "https://github.com/tobilg/facebook-events-by-location",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT",
+  "gitHead": "4110d278ef4b4c31745c032752a8b482e2758ddd",
+  "_id": "facebook-events-by-location@0.5.3",
+  "_shasum": "12f34360acbedbf4d26e3a18ce095545cd6189d5",
+  "_from": "facebook-events-by-location@*",
+  "_npmVersion": "3.10.6",
+  "_nodeVersion": "5.8.0",
+  "_npmUser": {
+    "name": "tobilg",
+    "email": "tobilg@users.noreply.github.com"
+  },
+  "maintainers": [
+    {
+      "name": "tobilg",
+      "email": "tobi.78@gmx.de"
+    }
+  ],
+  "dist": {
+    "shasum": "12f34360acbedbf4d26e3a18ce095545cd6189d5",
+    "tarball": "https://registry.npmjs.org/facebook-events-by-location/-/facebook-events-by-location-0.5.3.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/facebook-events-by-location-0.5.3.tgz_1471537595315_0.10939816059544683"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/facebook-events-by-location/-/facebook-events-by-location-0.5.3.tgz"
+}
